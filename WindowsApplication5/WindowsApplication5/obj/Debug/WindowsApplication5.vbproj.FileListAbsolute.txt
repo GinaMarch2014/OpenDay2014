@@ -1,0 +1,11 @@
+c:\users\ghina\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+c:\users\ghina\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+c:\users\ghina\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+c:\users\ghina\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+c:\users\ghina\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+c:\users\ghina\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+c:\users\ghina\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+c:\users\ghina\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+c:\users\ghina\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+c:\users\ghina\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Ghina\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
